@@ -1,0 +1,50 @@
+figure {
+    margin: 0em;
+    padding: 0;
+  }
+  
+  html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+  }
+  body {
+    font-size: 1.6rem;
+  }
+  
+  p,
+  li,
+  a {
+    font-family: var(--main-font);
+  }
+  li {
+    list-style: none;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+.container {
+    max-width: 117rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+  .slick-next{
+    
+    right: 7rem;
+    z-index: 100000;
+    
+}
+.slick-prev{
+    margin-left: 6rem;
+    right: 10rem;
+    z-index: 100000;
+}
+
+.slick-prev:before, .slick-next:before {
+    color: gray;
+    font-size: 5rem;
+    opacity: 0.5
+}

@@ -1,0 +1,49 @@
+.main-service{
+    background-color:$secondary-color;
+    height: 7.469rem;
+    margin: 0;
+    @include mobile{
+        height: auto;
+    }
+    & h1{
+        margin: 0;
+        color: white;
+        font-size: 2rem;
+        
+    }
+}
+.main-service--container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 7.469rem;
+    @include mobile{
+        height: auto;
+      
+    }
+    width: 100%;
+}
+.main-service__item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    & img{
+        max-width: 80%;
+    }
+    @include mobile{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        margin: 0;
+    }
+}
+.service-logo{
+    width: 5rem;
+    margin-right: 1rem;
+    & img{
+        max-width: 20%;
+        
+        
+    }
+}

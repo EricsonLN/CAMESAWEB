@@ -1,0 +1,13 @@
+
+.slider-main--active{
+    height: 300.44px;
+    
+    & img{
+        width: 100%;
+      height: 285px;
+      object-fit: cover;
+    }
+}
+.nav-banner--active{
+    height: 285px;
+}

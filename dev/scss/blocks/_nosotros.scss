@@ -1,0 +1,146 @@
+.nosotros-general{
+    background-image: url('../img/img-fondo/fondo-nosotros.png');
+    
+}
+.main-nosotros{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-items: center;
+    
+    &__images{
+        margin-right: 9rem;
+        padding: 1rem;
+        width: 45%;
+        margin-left: 1rem;
+
+        @include mobile{
+            width: auto;
+            margin: auto;
+        }
+
+        // flex-grow: 2;
+        & img{
+            max-width: 100%;
+            display: block;
+            @include mobile{
+                max-width: 90%;
+                margin: auto;
+            }
+        }
+    }
+}
+.main-nosotros__content{
+    flex-grow: 1;
+    border:3px solid #5E3F23;
+    width: 70%;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background: white;
+    width: 40%;
+    
+    @include mobile{
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    display: flex;
+    align-items: center;
+}
+.main-marco{
+    margin: auto;
+    width: 90%;
+    @include mobile{
+        width: auto;
+    }
+
+    &__title .line{
+        width: 100px;
+        height: 5px;
+        
+        margin-bottom: 1rem;
+        background: rgba(127,167,68,1);
+        background: -moz-linear-gradient(left, rgba(127,167,68,1) 0%, rgba(127,167,68,1) 1%, rgba(127,167,68,1) 29%, rgba(127,167,68,1) 49%, rgba(127,167,68,1) 50%, rgba(20,93,48,1) 51%, rgba(20,93,48,1) 100%);
+        background: -webkit-gradient(left top, right top, color-stop(0%, rgba(127,167,68,1)), color-stop(1%, rgba(127,167,68,1)), color-stop(29%, rgba(127,167,68,1)), color-stop(49%, rgba(127,167,68,1)), color-stop(50%, rgba(127,167,68,1)), color-stop(51%, rgba(20,93,48,1)), color-stop(100%, rgba(20,93,48,1)));
+        background: -webkit-linear-gradient(left, rgba(127,167,68,1) 0%, rgba(127,167,68,1) 1%, rgba(127,167,68,1) 29%, rgba(127,167,68,1) 49%, rgba(127,167,68,1) 50%, rgba(20,93,48,1) 51%, rgba(20,93,48,1) 100%);
+        background: -o-linear-gradient(left, rgba(127,167,68,1) 0%, rgba(127,167,68,1) 1%, rgba(127,167,68,1) 29%, rgba(127,167,68,1) 49%, rgba(127,167,68,1) 50%, rgba(20,93,48,1) 51%, rgba(20,93,48,1) 100%);
+        background: -ms-linear-gradient(left, rgba(127,167,68,1) 0%, rgba(127,167,68,1) 1%, rgba(127,167,68,1) 29%, rgba(127,167,68,1) 49%, rgba(127,167,68,1) 50%, rgba(20,93,48,1) 51%, rgba(20,93,48,1) 100%);
+        background: linear-gradient(to right, rgba(127,167,68,1) 0%, rgba(127,167,68,1) 1%, rgba(127,167,68,1) 29%, rgba(127,167,68,1) 49%, rgba(127,167,68,1) 50%, rgba(20,93,48,1) 51%, rgba(20,93,48,1) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7fa744', endColorstr='#145d30', GradientType=1 );
+    }
+
+    &__title h2{
+        color: #5E3F23;
+        font-family: 'Roboto', sans-serif;
+        margin-bottom: 5px;
+    }
+    &__text{
+        margin-top: 3rem;
+    }
+    &__text p{
+        font-family: 'Roboto Condensed', sans-serif;
+        color: #727376;
+        & span{
+            font-family: 'Roboto', sans-serif;
+        }
+    }
+}
+.main-c{
+   
+    background-color: #7fa744;
+    clip-path: polygon(0 0, 100% 0, 100% 81%, 36% 80%, 30% 98%, 16% 81%, 0 81%);
+
+    height: 200.33px;
+    border: 5px solid white;
+    
+     position: relative;
+    z-index: 100;
+    @include mobile{
+        height: auto;
+        clip-path: none;
+        
+    }
+}
+.main-clientes{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+    height: 168.33px;
+    @include mobile{
+        height: auto;
+        padding-bottom: 2rem;
+    }
+    align-items: center;
+    &__text{
+        @include mobile{
+            width: 100%;
+        }
+        @include mobile{
+            & h1{
+              text-align: center;  
+            }
+        }
+    }
+    &__img{
+        @include mobile{
+            width: 100%;
+            margin-top: 1rem;
+            margin-bottom: 1erm;
+        }
+        & img{
+            display: block;
+            margin: auto;
+        }
+    }
+    &__text h1{
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        margin-bottom: 1rem;
+    }
+    &__text .line-2{
+        width: 100%;
+        height: 5px;
+        background-color: #fff;
+    }
+}

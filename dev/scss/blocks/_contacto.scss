@@ -1,0 +1,216 @@
+.main-cont{
+    background-image:url("../img/img-fondo/fondo-contact.png");
+    height: 595.07px;
+    position: relative;
+    top:-4rem;
+    // z-index: -1;
+    @include mobile{
+        height: auto;
+    }
+}
+
+
+
+.main-titulo{
+    display: flex;
+    align-items: center;
+    margin-left: 3rem;
+    padding-top: 5rem;
+
+    &__text{
+        margin-left: 1rem;
+        color: white;
+        & h1{
+            margin-bottom: 0;
+            font-family: 'Roboto', sans-serif;
+            
+        }
+        & p{
+            margin-top: 2px;
+            font-family: 'Roboto Condensed', sans-serif;
+        }
+    }
+}
+
+.line-3{
+    width: 5px;
+    height: 9rem;
+    background-color: #fff;
+   
+}
+
+
+
+.main-formulario{
+    margin-top: 5rem;
+    display: flex;
+    flex-wrap: wrap;
+    @include mobile{
+        justify-content: center;
+    }
+}
+
+.main-formularios__inputs{
+    margin-left: 1.5rem;
+    flex-grow: 2;
+}
+
+.main-formulario__inputs--item{
+    padding: 0.5rem;
+    width: 100%;
+    & input{
+        padding: 1rem;
+        width: 30rem;
+        border: none
+       
+        ;
+        
+        @include mobile{
+            width: 90%;
+            margin: 1.5rem;
+        }
+        padding: 1.5rem;
+        color:#5E3F23 ;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-size: 1.8rem;
+        
+    }
+
+    
+    
+    & p{
+        color: white;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-size: 1.5rem;
+        
+        
+    }
+}
+.main-formulario__inputs--active{
+    width: auto;
+    display: flex;
+    height: 1rem;
+    align-items: center;
+    
+    & input{
+        display: block;
+        width: auto;
+        margin-right: 1rem;
+        background-color: red ;
+        border: none;
+    }
+}
+.main-formulario__inputs--button{
+
+    @include mobile{
+    display: flex;
+
+    justify-content: center;
+    padding: 1rem;}
+    & input{
+        margin-top: 1rem;
+        padding: 1rem;
+        width: 20rem;
+        background: $secondary-color;
+        color: white;
+        font-family: 'Roboto', sans-serif;
+        font-size: 2rem;
+        cursor: pointer;
+        border: none;
+        
+    }
+}
+
+.main-ubicacion{
+    display: flex;
+    height: 353.04px;
+    position: relative;
+    flex-wrap: wrap;
+    top: -2rem;
+
+    @include mobile{
+        height: auto;
+        
+    }
+    
+.main-ubicacion__item{
+    @include mobile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;}
+    @include mobile{
+        width: 100%;
+        margin: auto;
+    }
+    
+    // flex-grow: 1;
+    & h1{
+        font-family: 'Roboto', sans-serif;
+        color: #5E3F23;
+    }
+    }
+    .main-ubicacion__mapa{
+        flex-grow: 2;
+        padding: 1.5rem;
+       
+        & iframe{
+            width: 100%;
+            height: 100%;
+            display: block;
+            
+        }
+    }
+    .content{
+        
+        display: flex;
+        @include mobile{
+            flex-direction: column;
+            align-items: center;
+            width: 90%;
+            padding: 1rem;
+        }
+        & i{
+            color: #5E3F23;
+            @include mobile{
+                font-size: 3rem;
+               
+            }
+        }
+        & p{
+            margin: 0;
+            margin-bottom: 2rem;
+            margin-left: 1rem;
+            color: #5E3F23;
+            font-family: 'Roboto Condensed', sans-serif;
+            @include mobile{
+                margin-top: 1.5rem;
+                width: 100%;
+                text-align: center;
+                
+            }
+        }
+    }
+    .iframe{
+        border: 5px solid white;
+        height: 100%;
+    }
+}
+
+.texarea{
+    width: 60rem;
+    height: 13rem;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding: 1rem;
+    font-size: 2rem;
+    @include mobile{
+        width: 90%;
+            margin: 1.5rem;
+    }
+}
+.img-containernosotros{
+    & img{
+        @include mobile{
+            width: 100%;
+        }
+    }
+}
