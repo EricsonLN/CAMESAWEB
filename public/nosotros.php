@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <?php include('linkeos.php')?>
-    
+    <?php include('linkeos.php') ?>
+
     <title>Document</title>
 </head>
+
 <body>
-    <?php include('_headersecciones.php')?>
+    <?php include('_headersecciones.php') ?>
 
     <div class="main-nosotros container">
         <div class="main-nosotros__item main-nosotros__item--active">
@@ -31,7 +33,7 @@
                 <img src="assets/img/icon/vision.png" alt="">
             </div>
             <p>Ser el mejor socio estratégico para el crecimiento de tu empresa</p>
-            
+
         </div>
         <div class="main-nuestros__item">
             <h2>NUESTRA</h2>
@@ -55,4 +57,5 @@
     <?php include('_Layout.php') ?>
     <?php include('_script.php') ?>
 </body>
+
 </html>

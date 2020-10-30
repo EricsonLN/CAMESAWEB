@@ -1,7 +1,6 @@
-
 <div class="slider-mainProductos">
     <div class="slider-mainProductos__item">
-    <!-- Descripcion 1 de los productos -->
+        <!-- Descripcion 1 de los productos -->
         <div class="main-descpro container">
             <div class="hijo1">
                 <div class="main-descpro__item">
@@ -15,16 +14,16 @@
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">DESCRIPCIÓN</h2>
-                            <p>Este producto es utilizado por empresas constructoras o 
-                            albañiles para encofrados, soportes, etc; por empresas 
-                            ganaderas o avícolas para galpones; y también por 
-                            empresas agroindustriales para el cultivo. 
-                            Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
+                            <p>Este producto es utilizado por empresas constructoras o
+                                albañiles para encofrados, soportes, etc; por empresas
+                                ganaderas o avícolas para galpones; y también por
+                                empresas agroindustriales para el cultivo.
+                                Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
                         </div>
                     </div>
                     <div class="main-descripcion">
                         <div class="main-con">
-                            <img  src="assets/img/icon/icono-hoja.png" alt="">
+                            <img src="assets/img/icon/icono-hoja.png" alt="">
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">VENTAJAS</h2>
@@ -45,21 +44,21 @@
             </div>
             <div class="hijo2">
                 <div class="slider-product container">
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- segundo items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- TERCER items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- cuarto items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt=""/></a></div>
-                        </div>
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- segundo items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- TERCER items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- cuarto items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt="" /></a></div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -70,21 +69,21 @@
         <div class="main-descpro container">
             <div class="hijo2">
                 <div class="slider-product container">
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- segundo items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- TERCER items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- cuarto items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt=""/></a></div>
-                        </div>
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- segundo items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- TERCER items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- cuarto items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt="" /></a></div>
+                    </div>
                 </div>
             </div>
             <div class="hijo1">
@@ -99,16 +98,16 @@
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">DESCRIPCIÓN</h2>
-                            <p>Este producto es utilizado por empresas constructoras o 
-                            albañiles para encofrados, soportes, etc; por empresas 
-                            ganaderas o avícolas para galpones; y también por 
-                            empresas agroindustriales para el cultivo. 
-                            Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
+                            <p>Este producto es utilizado por empresas constructoras o
+                                albañiles para encofrados, soportes, etc; por empresas
+                                ganaderas o avícolas para galpones; y también por
+                                empresas agroindustriales para el cultivo.
+                                Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
                         </div>
                     </div>
                     <div class="main-descripcion">
                         <div class="main-con">
-                            <img  src="assets/img/icon/icono-hoja.png" alt="">
+                            <img src="assets/img/icon/icono-hoja.png" alt="">
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">VENTAJAS</h2>
@@ -146,16 +145,16 @@
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">DESCRIPCIÓN</h2>
-                            <p>Este producto es utilizado por empresas constructoras o 
-                            albañiles para encofrados, soportes, etc; por empresas 
-                            ganaderas o avícolas para galpones; y también por 
-                            empresas agroindustriales para el cultivo. 
-                            Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
+                            <p>Este producto es utilizado por empresas constructoras o
+                                albañiles para encofrados, soportes, etc; por empresas
+                                ganaderas o avícolas para galpones; y también por
+                                empresas agroindustriales para el cultivo.
+                                Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
                         </div>
                     </div>
                     <div class="main-descripcion">
                         <div class="main-con">
-                            <img  src="assets/img/icon/icono-hoja.png" alt="">
+                            <img src="assets/img/icon/icono-hoja.png" alt="">
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">VENTAJAS</h2>
@@ -176,21 +175,21 @@
             </div>
             <div class="hijo2">
                 <div class="slider-product container">
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- segundo items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- TERCER items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- cuarto items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt=""/></a></div>
-                        </div>
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- segundo items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- TERCER items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- cuarto items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt="" /></a></div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -201,21 +200,21 @@
         <div class="main-descpro container">
             <div class="hijo2">
                 <div class="slider-product container">
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- segundo items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- TERCER items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- cuarto items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt=""/></a></div>
-                        </div>
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- segundo items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- TERCER items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- cuarto items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt="" /></a></div>
+                    </div>
                 </div>
             </div>
             <div class="hijo1">
@@ -230,16 +229,16 @@
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">DESCRIPCIÓN</h2>
-                            <p>Este producto es utilizado por empresas constructoras o 
-                            albañiles para encofrados, soportes, etc; por empresas 
-                            ganaderas o avícolas para galpones; y también por 
-                            empresas agroindustriales para el cultivo. 
-                            Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
+                            <p>Este producto es utilizado por empresas constructoras o
+                                albañiles para encofrados, soportes, etc; por empresas
+                                ganaderas o avícolas para galpones; y también por
+                                empresas agroindustriales para el cultivo.
+                                Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
                         </div>
                     </div>
                     <div class="main-descripcion">
                         <div class="main-con">
-                            <img  src="assets/img/icon/icono-hoja.png" alt="">
+                            <img src="assets/img/icon/icono-hoja.png" alt="">
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">VENTAJAS</h2>
@@ -277,16 +276,16 @@
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">DESCRIPCIÓN</h2>
-                            <p>Este producto es utilizado por empresas constructoras o 
-                            albañiles para encofrados, soportes, etc; por empresas 
-                            ganaderas o avícolas para galpones; y también por 
-                            empresas agroindustriales para el cultivo. 
-                            Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
+                            <p>Este producto es utilizado por empresas constructoras o
+                                albañiles para encofrados, soportes, etc; por empresas
+                                ganaderas o avícolas para galpones; y también por
+                                empresas agroindustriales para el cultivo.
+                                Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
                         </div>
                     </div>
                     <div class="main-descripcion">
                         <div class="main-con">
-                            <img  src="assets/img/icon/icono-hoja.png" alt="">
+                            <img src="assets/img/icon/icono-hoja.png" alt="">
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">VENTAJAS</h2>
@@ -307,21 +306,21 @@
             </div>
             <div class="hijo2">
                 <div class="slider-product container">
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- segundo items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- TERCER items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- cuarto items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt=""/></a></div>
-                        </div>
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- segundo items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- TERCER items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- cuarto items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt="" /></a></div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -332,21 +331,21 @@
         <div class="main-descpro container">
             <div class="hijo2">
                 <div class="slider-product container">
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- segundo items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- TERCER items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- cuarto items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt=""/></a></div>
-                        </div>
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- segundo items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- TERCER items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- cuarto items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt="" /></a></div>
+                    </div>
                 </div>
             </div>
             <div class="hijo1">
@@ -361,16 +360,16 @@
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">DESCRIPCIÓN</h2>
-                            <p>Este producto es utilizado por empresas constructoras o 
-                            albañiles para encofrados, soportes, etc; por empresas 
-                            ganaderas o avícolas para galpones; y también por 
-                            empresas agroindustriales para el cultivo. 
-                            Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
+                            <p>Este producto es utilizado por empresas constructoras o
+                                albañiles para encofrados, soportes, etc; por empresas
+                                ganaderas o avícolas para galpones; y también por
+                                empresas agroindustriales para el cultivo.
+                                Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
                         </div>
                     </div>
                     <div class="main-descripcion">
                         <div class="main-con">
-                            <img  src="assets/img/icon/icono-hoja.png" alt="">
+                            <img src="assets/img/icon/icono-hoja.png" alt="">
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">VENTAJAS</h2>
@@ -407,16 +406,16 @@
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">DESCRIPCIÓN</h2>
-                            <p>Este producto es utilizado por empresas constructoras o 
-                            albañiles para encofrados, soportes, etc; por empresas 
-                            ganaderas o avícolas para galpones; y también por 
-                            empresas agroindustriales para el cultivo. 
-                            Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
+                            <p>Este producto es utilizado por empresas constructoras o
+                                albañiles para encofrados, soportes, etc; por empresas
+                                ganaderas o avícolas para galpones; y también por
+                                empresas agroindustriales para el cultivo.
+                                Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
                         </div>
                     </div>
                     <div class="main-descripcion">
                         <div class="main-con">
-                            <img  src="assets/img/icon/icono-hoja.png" alt="">
+                            <img src="assets/img/icon/icono-hoja.png" alt="">
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">VENTAJAS</h2>
@@ -437,35 +436,35 @@
             </div>
             <div class="hijo2">
                 <div class="slider-product container">
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- segundo items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- TERCER items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt=""/></a></div>
-                        </div>
-                        <!-- cuarto items-->
-                        <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt=""/></a></div>
-                        </div>
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- segundo items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- TERCER items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt="" /></a></div>
+                    </div>
+                    <!-- cuarto items-->
+                    <div class="slider-gallery__items gallery-conatiner">
+                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt="" /></a></div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 
-    </div>
+</div>
 <!-- nuestro mercado -->
 <div class="nosotros-general" id="nuestromercado">
     <div class="main-nosotros container">
 
         <!-- <div class="main-nosotros__images"> -->
-            <div class="main-nosotros__images">
-                <img src="assets/img/img-footer.png" alt="">
-            </div>
+        <div class="main-nosotros__images">
+            <img src="assets/img/img-footer.png" alt="">
+        </div>
         <!-- </div> -->
 
         <div class="main-nosotros__content">
@@ -514,19 +513,19 @@
     <div class="main-contacto container">
         <div class="main-titulo">
             <div class="line-3"></div>
-            <div class="main-titulo__text">    
+            <div class="main-titulo__text">
                 <h1>Contacto</h1>
                 <p>Déjanos tus datos y un asesor de venta se pondrá en contacto con usted.</p>
             </div>
         </div>
     </div>
-<!-- container -->
+    <!-- container -->
     <div class="container">
         <div class="main-formulario">
             <div class="main-formulario__img">
                 <img src="assets/img/img-formulario.png" alt="">
             </div>
-            <form  method="post" class="main-formularios__inputs" id="formContact" action="">
+            <form method="post" class="main-formularios__inputs" id="formContact" action="">
 
                 <div class="main-formulario__inputs--item">
                     <input type="text" name="txtnombre" id="txtnombre" placeholder="Nombres y Apellidos">
@@ -546,21 +545,21 @@
                     <p>(*) Todos los campos son obligatorios</p>
                 </div>
 
-               
+
 
                 <div class="main-formulario__inputs--button">
-                    <input  type="submit" value="Enviar" name="btnenviar" id="btnenviar">
-                    <button type="submit" class="btn-verMas">Enviar Mensaje</button>
+                    <input type="submit" value="Enviar" name="btnenviar" id="btnenviar">
+                    <!-- <button type="submit" class="btn-verMas">Enviar Mensaje</button> -->
                 </div>
                 <div id="respta" class="panel_confi"></div>
-               
+
             </form>
         </div>
     </div>
 
 </div>
 
-        
+
 
 
 
@@ -573,28 +572,28 @@
         <div class="main-ubicacion__item">
             <h1>Nuestras Oficinas:</h1>
             <div class="content edit">
-                
+
                 <i class="fas fa-map-marker-alt"></i>
-                <p>Principal: Av. Jhon F. Kennedy 1054 - Moshoqueque - JLO <br> 
+                <p>Principal: Av. Jhon F. Kennedy 1054 - Moshoqueque - JLO <br>
                     Sucursal:Car.Panamericana KM. 965 frente a Ferrente a Ferrenor <br>
-                    costado del grifo de Olmos - Olmos - Lambayeque</p> 
+                    costado del grifo de Olmos - Olmos - Lambayeque</p>
             </div>
             <div class="content">
                 <i class="fas fa-phone"></i>
                 <p>Chiclayo: 938947610 /923310683 <br>
                     Olmos: 79062179
-                </p> 
+                </p>
             </div>
             <div class="content">
                 <i class="fab fa-whatsapp"></i>
                 <p>Chiclayo: 938947610 /923310683 <br>
                     Olmos: 79062179
-                </p> 
+                </p>
             </div>
             <div class="content">
                 <i class="fas fa-envelope-square"></i>
                 <p>Correo electrónico: ventas@inversionescamesa.com
-                </p> 
+                </p>
             </div>
         </div>
 

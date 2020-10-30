@@ -6,14 +6,14 @@
         </div>
         <div class="main_header__item">
             <i class="fas fa-phone"></i>
-            <a href="tel:+51938947610"><p>938 947 610/923 310 683</p></a>
+            <a href="tel:+51938947610">
+                <p>938 947 610/923 310 683</p>
+            </a>
         </div>
         <div class="main_header__item">
             <a href="#"><i class="fab fa-whatsapp"></i></a>
             <a href="#"><i class="fab fa-facebook-f"></i></a>
             <a href="#"><i class="fab fa-instagram"></i></a>
-            
-           
         </div>
     </div>
 </header>
