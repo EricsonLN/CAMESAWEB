@@ -1,12 +1,12 @@
 /*======== Formulario Contacto ========*/
 $("#formContact").submit(function () {
-  let url = "send.php";
+  let url = "send_contact.php";
   $.ajax({
     type: "post",
     url: url,
     data: $("#formContact").serialize(),
     success: function (data) {
-      $("#rspta").html(data);
+      $("#respta").html(data);
     },
   });
   $(".panel_confi").addClass("active_panel");

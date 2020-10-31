@@ -333,7 +333,8 @@
                     <img src="assets/img/img-formulario4.png" alt="">
                 </div>
             </div>
-            <form method="post" class="main-formularios__inputs" id="formContact" action="">
+            <form method="post" class="main-formularios__inputs" id="formContact">
+                <div id="respta" class="panel_confi"></div>
 
                 <div class="main-formulario__inputs--item">
                     <input type="text" name="txtnombre" id="txtnombre" placeholder="Nombres y Apellidos">
@@ -353,13 +354,10 @@
                     <p>(*) Todos los campos son obligatorios</p>
                 </div>
 
-
-
                 <div class="main-formulario__inputs--button">
-                    <input type="submit" value="Enviar" name="btnenviar" id="btnenviar">
+                    <input type="submit" value="Enviar">
                     <!-- <button type="submit" class="btn-verMas">Enviar Mensaje</button> -->
                 </div>
-                <div id="respta" class="panel_confi"></div>
 
             </form>
         </div>

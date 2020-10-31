@@ -6,4 +6,5 @@
 <script src="js/slidercontacto.js"></script>
 <!-- Scripts propios -->
 <script src="js/nav.js"></script>
+<script src="js/ajax.js"></script>
 <!-- <script src="js/js_form.js"></script> -->
