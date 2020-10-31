@@ -48,6 +48,21 @@
     @include mobile{
         justify-content: center;
     }
+
+    &__img{
+        width: 50rem;
+       
+        & img{
+            height: 30rem;
+            width: 100%;
+            border: 1px solid white;
+            object-fit: cover;
+        }
+        @include mobile{
+            width: 35rem;
+        }
+    }
+    
 }
 
 .main-formularios__inputs{
@@ -214,3 +229,5 @@
         }
     }
 }
+
+

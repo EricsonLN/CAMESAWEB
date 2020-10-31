@@ -20,19 +20,42 @@
     &--active{
        height: 30rem;
        background-color: #fff; 
+       @include mobile{
+           height: 100%;
+       }
+       @include tablet{
+           height: 100%;
+       }
+
        & h2{
         font-family: 'Roboto', sans-serif;
         color:var(--secondary-color);
+        margin-bottom: 0;
+        @include mobile{
+            text-align: center;
+        }
        }
        & h1{
         font-family: 'Roboto', sans-serif;
         color: #5E3F23;
+        margin-top: 0;
+        margin-bottom: 2px;
+        @include mobile{
+            text-align: center;
+        }
        }
        & p{
         color: #727376;
         font-family: 'Roboto Condensed', sans-serif;
+        margin-top: 0;
+        font-size: 1.4rem;
+        @include mobile{
+            text-align: center;
+            text-align: justify;
+        }
         & span{
             color: rgb(50, 126, 212);
+            
         };
        }
     }
@@ -74,9 +97,13 @@
         flex-direction: column;
         align-content: center;
         justify-content: center;
+        @include tablet{
+            margin-top: 38rem;
+        }
         @include mobile{
             margin-top: 2rem;
         }
+        
         & h2{
             text-align: center;
             margin: 0;
@@ -108,3 +135,10 @@
         
     }
 }
+
+.main-nuestros__item--active{
+    @include tablet{
+        margin-top:10rem ;
+    }
+}
+

@@ -16,7 +16,9 @@
         <div class="main-nosotros__item main-nosotros__item--active">
             <h2>CONÓCENOS</h2>
             <h1>QUIENES SOMOS</h1>
-            <p><span>MELVAN AGENTES DE CARGA S.R.L.</span> es una empresa que se dedica al agenciamiento de carga aérea y marítima, tanto de inportación como de exportación.Brindamos servicios de operaciones logísticas integrales, confiables y eficientes. Además, nos comprometemos a lo siguiente</p>
+            <p><span>CAMESA es un negocio familiar que esta en el mercado desde el 2008,</span> comenzamos nuestras operaciones  bajo el nombre de Inversiones Carhuatanta como persona natural con negocio con la venta de pie derechos por pequeñas cantidades, a medida que avanzabamos en el mercado fuimos ampliando nuestros productos y el abastecimiento al mercado. En el año 2016 se coloca un almacen para nuestros productos y su despacho. En el 2018 aperturamos una succursal en OLMOS ampliando nuestra oferta. 
+            En el 2020 un año duramente golpeado, pero eso no fue impedimento para crecer, mas bien nos fortalecio y es asi que durante la pandemia se tomo la decision de cambiar nuestra razon social y nos convertimos en CAMESA ( Carhuatanta Meneses SAC.) 	una empresa que pretende expandirse por todo el Perú y ser lider en el rubro. 
+            </p>
         </div>
         <div class="main-nosotros__item main-nosotros__item2">
             <div class="img-containernosotros">
@@ -32,7 +34,7 @@
             <div class="img-logon">
                 <img src="assets/img/icon/vision.png" alt="">
             </div>
-            <p>Ser el mejor socio estratégico para el crecimiento de tu empresa</p>
+            <p>Ser una empresa lider en la región en el rubro maderero, ampliando nuestra variedad de productos para nuestros clientes.  </p>
 
         </div>
         <div class="main-nuestros__item">
@@ -41,20 +43,21 @@
             <div class="img-logon">
                 <img src="assets/img/icon/mision.png" alt="">
             </div>
-            <p>Estamos enfocados en satisfacer las necesidades de nuestros clientes y el </p>
+            <p>Somos una negocio famialiar con respondabildad con el medio ambiente que ofrece una gran variedad de producto de excelente calidad </p>
         </div>
-        <div class="main-nuestros__item">
-            <h2>NUESTRA</h2>
-            <h1>VISIÓN</h1>
+        <div class="main-nuestros__item main-nuestros__item--active">
+            <h2>NUESTRO</h2>
+            <h1>VALORES</h1>
             <div class="img-logon">
                 <img src="assets/img/icon/valores.png" alt="">
             </div>
-            <p>Compromiso, responsabilidad, transparencia y lealtad.</p>
+            <p>Integros, puntualidad, Honestos, Transparencia y Eficiencia.</p>
+            <p></p>
         </div>
     </div>
 
 
-    <?php include('_Layout.php') ?>
+    <?php include('_layout.php') ?>
     <?php include('_script.php') ?>
 </body>
 

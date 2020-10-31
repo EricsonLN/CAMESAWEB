@@ -49,7 +49,7 @@
   </div>
 
   <br>
-  <?php include('_Layout.php') ?>
+  <?php include('_layout.php') ?>
   <?php include('_script.php') ?>
 </body>
 

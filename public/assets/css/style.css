@@ -402,6 +402,7 @@ body {
 .slider-gallery {
   display: flex;
   justify-content: center;
+  width: 60%;
 }
 
 .slider-gallery__items {
@@ -410,6 +411,13 @@ body {
 
 .img-container {
   margin: auto;
+  height: 30rem;
+}
+
+@media screen and (max-width: 580px) {
+  .img-container {
+    height: auto;
+  }
 }
 
 .img-container img {
@@ -417,11 +425,13 @@ body {
   max-width: 60%;
   border: 7px solid white;
   box-shadow: 2px 23px 5px 0px #8a868a;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 @media screen and (max-width: 580px) {
   .img-container img {
-    max-width: 90%;
+    max-width: 100%;
   }
 }
 
@@ -860,6 +870,24 @@ body {
   }
 }
 
+.main-formulario__img {
+  width: 50rem;
+}
+
+.main-formulario__img img {
+  height: 30rem;
+  width: 100%;
+  border: 1px solid white;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+@media screen and (max-width: 580px) {
+  .main-formulario__img {
+    width: 35rem;
+  }
+}
+
 .main-formularios__inputs {
   margin-left: 1.5rem;
   flex-grow: 2;
@@ -1080,19 +1108,55 @@ body {
   background-color: #fff;
 }
 
+@media screen and (max-width: 580px) {
+  .main-nosotros__item--active {
+    height: 100%;
+  }
+}
+
+@media screen and (max-width: 780px) {
+  .main-nosotros__item--active {
+    height: 100%;
+  }
+}
+
 .main-nosotros__item--active h2 {
   font-family: 'Roboto', sans-serif;
   color: var(--secondary-color);
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 580px) {
+  .main-nosotros__item--active h2 {
+    text-align: center;
+  }
 }
 
 .main-nosotros__item--active h1 {
   font-family: 'Roboto', sans-serif;
   color: #5E3F23;
+  margin-top: 0;
+  margin-bottom: 2px;
+}
+
+@media screen and (max-width: 580px) {
+  .main-nosotros__item--active h1 {
+    text-align: center;
+  }
 }
 
 .main-nosotros__item--active p {
   color: #727376;
   font-family: 'Roboto Condensed', sans-serif;
+  margin-top: 0;
+  font-size: 1.4rem;
+}
+
+@media screen and (max-width: 580px) {
+  .main-nosotros__item--active p {
+    text-align: center;
+    text-align: justify;
+  }
 }
 
 .main-nosotros__item--active p span {
@@ -1141,6 +1205,12 @@ body {
   justify-content: center;
 }
 
+@media screen and (max-width: 780px) {
+  .main-nuestros__item {
+    margin-top: 38rem;
+  }
+}
+
 @media screen and (max-width: 580px) {
   .main-nuestros__item {
     margin-top: 2rem;
@@ -1176,4 +1246,10 @@ body {
 
 .img-logon img {
   max-width: 100%;
+}
+
+@media screen and (max-width: 780px) {
+  .main-nuestros__item--active {
+    margin-top: 10rem;
+  }
 }

@@ -64,32 +64,32 @@
         </div>
     </div>
 
-    <!-- Descripcion 2 de los productos -->
+    <!-- PRODUCTO NUMERO 2 -->
     <div class="slider-mainProductos__item">
         <div class="main-descpro container">
             <div class="hijo2">
                 <div class="slider-product container">
                     <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt="" /></a></div>
+                        <div class="img-container img-container--activerevers gallery-card"><a href="images/guayaquil.png" data-lightbox="roadtrip"><img src="images/guayaquil.png" alt="" /></a></div>
                     </div>
                     <!-- segundo items-->
                     <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt="" /></a></div>
+                        <div class="img-container img-container--activerevers gallery-card"><a href="images/guayaquil.png" data-lightbox="roadtrip"><img src="images/guayaquil.png" alt="" /></a></div>
                     </div>
                     <!-- TERCER items-->
                     <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt="" /></a></div>
+                        <div class="img-container img-container--activerevers gallery-card"><a href="images/guayaquil.png" data-lightbox="roadtrip"><img src="images/guayaquil.png" alt="" /></a></div>
                     </div>
                     <!-- cuarto items-->
                     <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt="" /></a></div>
+                        <div class="img-container img-container--active gallery-card"><a href="images/guayaquil.png" data-lightbox="roadtrip"><img src="images/guayaquil.png" alt="" /></a></div>
                     </div>
                 </div>
             </div>
             <div class="hijo1">
                 <div class="main-descpro__item">
-                    <h2>Eucalipto pie derecho curado</h2>
-                    <h3> (Sales minerales) </h3>
+                    <h2>Guayaquil redonda</h2>
+                    <h3></h3>
                 </div>
                 <div class="main-descpro__item">
                     <div class="main-descripcion">
@@ -98,11 +98,7 @@
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">DESCRIPCIÓN</h2>
-                            <p>Este producto es utilizado por empresas constructoras o
-                                albañiles para encofrados, soportes, etc; por empresas
-                                ganaderas o avícolas para galpones; y también por
-                                empresas agroindustriales para el cultivo.
-                                Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
+                            <p>En los ultimos años este producto se esta utilizando para la arquitectura rustica de hoteles, recreos campestres, casas de campo, restaurantes, etc. Medidas: 6, 7 y 8 m</p>
                         </div>
                     </div>
                     <div class="main-descripcion">
@@ -111,7 +107,7 @@
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">VENTAJAS</h2>
-                            <p>Económico y dura 20 años según uso.</p>
+                            <p>Económico, atractivo para uso decorativo y dura 5 años según el uso.</p>
                         </div>
                     </div>
                     <div class="main-descripcion">
@@ -130,13 +126,13 @@
     </div>
 
 
-    <!-- Descripcion 3 de los productos -->
+    <!-- PRODUCTO 3-->
     <div class="slider-mainProductos__item">
         <div class="main-descpro container">
             <div class="hijo1">
                 <div class="main-descpro__item">
-                    <h2>Eucalipto pie derecho curado</h2>
-                    <h3> (Sales minerales) </h3>
+                    <h2>Caña brava (selva)</h2>
+                    <h3></h3>
                 </div>
                 <div class="main-descpro__item">
                     <div class="main-descripcion">
@@ -145,11 +141,8 @@
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">DESCRIPCIÓN</h2>
-                            <p>Este producto es utilizado por empresas constructoras o
-                                albañiles para encofrados, soportes, etc; por empresas
-                                ganaderas o avícolas para galpones; y también por
-                                empresas agroindustriales para el cultivo.
-                                Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
+                            <p>Este producto es utilizado para techos de casas rusticas, además para uso decorativo rustico.  <br>
+                                 Por tercio (10u).</p>
                         </div>
                     </div>
                     <div class="main-descripcion">
@@ -158,7 +151,7 @@
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">VENTAJAS</h2>
-                            <p>Económico y dura 20 años según uso.</p>
+                            <p>Económico y dura hasta 10 años.</p>
                         </div>
                     </div>
                     <div class="main-descripcion">
@@ -176,51 +169,51 @@
             <div class="hijo2">
                 <div class="slider-product container">
                     <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt="" /></a></div>
+                        <div class="img-container img-container--active img-container--activerevers gallery-card"><a href="images/canabrava.png" data-lightbox="roadtrip"><img src="images/canabrava.png" alt="" /></a></div>
                     </div>
                     <!-- segundo items-->
                     <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt="" /></a></div>
+                        <div class="img-container img-container--activerevers img-container--active gallery-card"><a href="images/canabrava.png" data-lightbox="roadtrip"><img class="img1" src="images/canabrava.png" alt="" /></a></div>
                     </div>
                     <!-- TERCER items-->
                     <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt="" /></a></div>
+                        <div class="img-container img-container--activerevers img-container--active gallery-card"><a href="images/canabrava.png" data-lightbox="roadtrip"><img class="img2" src="images/canabrava.png" alt="" /></a></div>
                     </div>
                     <!-- cuarto items-->
                     <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt="" /></a></div>
+                        <div class="img-container img-container--activerevers img-container--active gallery-card"><a href="images/canabrava.png" data-lightbox="roadtrip"><img class="img3" src="images/canabrava.png" alt="" /></a></div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
-    <!-- Descripcion 2 de los productos -->
+    <!-- PRODUCTO 4 -->
     <div class="slider-mainProductos__item">
         <div class="main-descpro container">
             <div class="hijo2">
                 <div class="slider-product container">
                     <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt="" /></a></div>
+                        <div class="img-container img-container--activerevers gallery-card"><a href="images/estera.jpg" data-lightbox="roadtrip"><img src="images/estera.jpg" alt="" /></a></div>
                     </div>
                     <!-- segundo items-->
                     <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt="" /></a></div>
+                        <div class="img-container img-container--activerevers gallery-card"><a href="images/estera.jpg" data-lightbox="roadtrip"><img src="images/estera.jpg" alt="" /></a></div>
                     </div>
                     <!-- TERCER items-->
                     <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt="" /></a></div>
+                        <div class="img-container img-container--activerevers gallery-card"><a href="images/estera.jpg" data-lightbox="roadtrip"><img src="images/estera.jpg" alt="" /></a></div>
                     </div>
                     <!-- cuarto items-->
                     <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt="" /></a></div>
+                        <div class="img-container img-container--active gallery-card"><a href="images/estera.jpg" data-lightbox="roadtrip"><img src="images/estera.jpg" alt="" /></a></div>
                     </div>
                 </div>
             </div>
             <div class="hijo1">
                 <div class="main-descpro__item">
-                    <h2>Eucalipto pie derecho curado</h2>
-                    <h3> (Sales minerales) </h3>
+                    <h2>Esteras</h2>
+                    <h3>  </h3>
                 </div>
                 <div class="main-descpro__item">
                     <div class="main-descripcion">
@@ -229,11 +222,8 @@
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">DESCRIPCIÓN</h2>
-                            <p>Este producto es utilizado por empresas constructoras o
-                                albañiles para encofrados, soportes, etc; por empresas
-                                ganaderas o avícolas para galpones; y también por
-                                empresas agroindustriales para el cultivo.
-                                Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
+                            <p>Este producto es utilizado para techos de casas rusticas, además para uso decorativo rustico.
+                                Medidas: 2.7 x 1.70 m</p>
                         </div>
                     </div>
                     <div class="main-descripcion">
@@ -242,7 +232,7 @@
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">VENTAJAS</h2>
-                            <p>Económico y dura 20 años según uso.</p>
+                            <p>Económico y dura 2 años según el uso. </p>
                         </div>
                     </div>
                     <div class="main-descripcion">
@@ -251,7 +241,7 @@
                         </div>
                         <div class="main-text">
                             <h2 class="main-text__h2">APLICACIONES (RUBRO)</h2>
-                            <p>Construcción y agrícola</p>
+                            <p>Construcción y decorativo</p>
                             <a href="#" class="button">Vér más</a>
                         </div>
                     </div>
@@ -261,200 +251,7 @@
     </div>
 
 
-    <!-- Descripcion 3 de los productos -->
-    <div class="slider-mainProductos__item">
-        <div class="main-descpro container">
-            <div class="hijo1">
-                <div class="main-descpro__item">
-                    <h2>Eucalipto pie derecho curado</h2>
-                    <h3> (Sales minerales) </h3>
-                </div>
-                <div class="main-descpro__item">
-                    <div class="main-descripcion">
-                        <div class="main-con">
-                            <img src="assets/img/icon/icono-hoja.png" alt="">
-                        </div>
-                        <div class="main-text">
-                            <h2 class="main-text__h2">DESCRIPCIÓN</h2>
-                            <p>Este producto es utilizado por empresas constructoras o
-                                albañiles para encofrados, soportes, etc; por empresas
-                                ganaderas o avícolas para galpones; y también por
-                                empresas agroindustriales para el cultivo.
-                                Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
-                        </div>
-                    </div>
-                    <div class="main-descripcion">
-                        <div class="main-con">
-                            <img src="assets/img/icon/icono-hoja.png" alt="">
-                        </div>
-                        <div class="main-text">
-                            <h2 class="main-text__h2">VENTAJAS</h2>
-                            <p>Económico y dura 20 años según uso.</p>
-                        </div>
-                    </div>
-                    <div class="main-descripcion">
-                        <div class="main-con">
-                            <img src="assets/img/icon/icono-hoja.png" alt="">
-                        </div>
-                        <div class="main-text">
-                            <h2 class="main-text__h2">APLICACIONES (RUBRO)</h2>
-                            <p>Construcción y agrícola</p>
-                            <a href="#" class="button">Vér más</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="hijo2">
-                <div class="slider-product container">
-                    <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt="" /></a></div>
-                    </div>
-                    <!-- segundo items-->
-                    <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt="" /></a></div>
-                    </div>
-                    <!-- TERCER items-->
-                    <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt="" /></a></div>
-                    </div>
-                    <!-- cuarto items-->
-                    <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt="" /></a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Descripcion 2 de los productos -->
-    <div class="slider-mainProductos__item">
-        <div class="main-descpro container">
-            <div class="hijo2">
-                <div class="slider-product container">
-                    <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt="" /></a></div>
-                    </div>
-                    <!-- segundo items-->
-                    <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt="" /></a></div>
-                    </div>
-                    <!-- TERCER items-->
-                    <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--activerevers gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt="" /></a></div>
-                    </div>
-                    <!-- cuarto items-->
-                    <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt="" /></a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="hijo1">
-                <div class="main-descpro__item">
-                    <h2>Eucalipto pie derecho curado</h2>
-                    <h3> (Sales minerales) </h3>
-                </div>
-                <div class="main-descpro__item">
-                    <div class="main-descripcion">
-                        <div class="main-con">
-                            <img src="assets/img/icon/icono-hoja.png" alt="">
-                        </div>
-                        <div class="main-text">
-                            <h2 class="main-text__h2">DESCRIPCIÓN</h2>
-                            <p>Este producto es utilizado por empresas constructoras o
-                                albañiles para encofrados, soportes, etc; por empresas
-                                ganaderas o avícolas para galpones; y también por
-                                empresas agroindustriales para el cultivo.
-                                Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
-                        </div>
-                    </div>
-                    <div class="main-descripcion">
-                        <div class="main-con">
-                            <img src="assets/img/icon/icono-hoja.png" alt="">
-                        </div>
-                        <div class="main-text">
-                            <h2 class="main-text__h2">VENTAJAS</h2>
-                            <p>Económico y dura 20 años según uso.</p>
-                        </div>
-                    </div>
-                    <div class="main-descripcion">
-                        <div class="main-con">
-                            <img src="assets/img/icon/icono-hoja.png" alt="">
-                        </div>
-                        <div class="main-text">
-                            <h2 class="main-text__h2">APLICACIONES (RUBRO)</h2>
-                            <p>Construcción y agrícola</p>
-                            <a href="#" class="button">Vér más</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Descripcion 3 de los productos -->
-    <div class="slider-mainProductos__item">
-        <div class="main-descpro container">
-            <div class="hijo1">
-                <div class="main-descpro__item">
-                    <h2>Eucalipto pie derecho curado</h2>
-                    <h3> (Sales minerales) </h3>
-                </div>
-                <div class="main-descpro__item">
-                    <div class="main-descripcion">
-                        <div class="main-con">
-                            <img src="assets/img/icon/icono-hoja.png" alt="">
-                        </div>
-                        <div class="main-text">
-                            <h2 class="main-text__h2">DESCRIPCIÓN</h2>
-                            <p>Este producto es utilizado por empresas constructoras o
-                                albañiles para encofrados, soportes, etc; por empresas
-                                ganaderas o avícolas para galpones; y también por
-                                empresas agroindustriales para el cultivo.
-                                Medidas: 2m, 2.5m, 3m, 4m, 5m, 6m, 7m y 8m.</p>
-                        </div>
-                    </div>
-                    <div class="main-descripcion">
-                        <div class="main-con">
-                            <img src="assets/img/icon/icono-hoja.png" alt="">
-                        </div>
-                        <div class="main-text">
-                            <h2 class="main-text__h2">VENTAJAS</h2>
-                            <p>Económico y dura 20 años según uso.</p>
-                        </div>
-                    </div>
-                    <div class="main-descripcion">
-                        <div class="main-con">
-                            <img src="assets/img/icon/icono-hoja.png" alt="">
-                        </div>
-                        <div class="main-text">
-                            <h2 class="main-text__h2">APLICACIONES (RUBRO)</h2>
-                            <p>Construcción y agrícola</p>
-                            <a href="#" class="button">Vér más</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="hijo2">
-                <div class="slider-product container">
-                    <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(25).jpg" data-lightbox="roadtrip"><img src="images/img(25).jpg" alt="" /></a></div>
-                    </div>
-                    <!-- segundo items-->
-                    <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(26).jpg" data-lightbox="roadtrip"><img src="images/img(26).jpg" alt="" /></a></div>
-                    </div>
-                    <!-- TERCER items-->
-                    <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(27).jpg" data-lightbox="roadtrip"><img src="images/img(27).jpg" alt="" /></a></div>
-                    </div>
-                    <!-- cuarto items-->
-                    <div class="slider-gallery__items gallery-conatiner">
-                        <div class="img-container img-container--active gallery-card"><a href="images/img(28).jpg" data-lightbox="roadtrip"><img src="images/img(28).jpg" alt="" /></a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+ <!-- INPORTAR BLOCK DE NOTAS -->
 
 </div>
 <!-- nuestro mercado -->
@@ -522,8 +319,19 @@
     <!-- container -->
     <div class="container">
         <div class="main-formulario">
-            <div class="main-formulario__img">
-                <img src="assets/img/img-formulario.png" alt="">
+            <div class="main-formulario__img ">
+                <div class="slider-contacto__items">
+                    <img src="assets/img/img-formulario.png" alt="">
+                </div>
+                <div class="slider-contacto__items">
+                    <img src="assets/img/img-formulario2.png" alt="">
+                </div>
+                <div class="slider-contacto__items">
+                    <img src="assets/img/img-formulario3.png" alt="">
+                </div>
+                <div class="slider-contacto__items">
+                    <img src="assets/img/img-formulario4.png" alt="">
+                </div>
             </div>
             <form method="post" class="main-formularios__inputs" id="formContact" action="">
 
